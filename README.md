@@ -1,10 +1,24 @@
 # AI Generated Bagtoads
 
-Just a couple of frogs and bags. Generated with AI.
+Just a couple of frogs and bags, and some without bags. Generated with AI.
 
-![Bagtoads](./bagtoads/_0283a9c5-6594-4dfc-b07e-e9b7a88dd028.jpeg)
-![Bagtoads](./bagtoads/_365ad683-097c-4dde-89b3-8d8e1c4d6dc4.jpeg)
-![Bagtoads](./bagtoads/_c162e9a4-0f8d-4147-ac40-ac4b8bff6cbf.jpeg)
-![Bagtoads](./bagtoads/_d19a50c6-1c6f-4917-b0e7-659f767a3e58.jpeg)
-![Bagtoads](./bagtoads/_e53ab431-8a60-40bb-8edb-9770e4b07a03.jpeg)
-![Bagtoads](./bagtoads/_f7515fb4-f937-4afd-8afb-0dd277dadd2e.jpeg)
+![Bagtoads](./bagtoads/bagtoad-1.jpeg)
+![Bagtoads](./bagtoads/bagtoad-2.jpeg)
+![Bagtoads](./bagtoads/bagtoad-3.jpeg)
+![Bagtoads](./bagtoads/bagtoad-4.jpeg)
+![Bagtoads](./bagtoads/bagtoad-5.jpeg)
+![Bagtoads](./bagtoads/bagtoad-6.jpeg)
+![Bagtoads](./bagtoads/bagtoad-7.jpeg)
+![Bagtoads](./bagtoads/bagtoad-8.jpeg)
+![Bagtoads](./bagtoads/bagtoad-9.jpeg)
+![Bagtoads](./bagtoads/bagtoad-10.jpeg)
+![Bagtoads](./bagtoads/bagtoad-11.jpeg)
+![Bagtoads](./bagtoads/bagtoad-12.jpeg)
+![Bagtoads](./bagtoads/bagtoad-13.jpeg)
+![Bagtoads](./bagtoads/bagtoad-14.jpeg)
+![Bagtoads](./bagtoads/bagtoad-15.jpeg)
+![Bagtoads](./bagtoads/bagtoad-16.jpeg)
+![Bagtoads](./bagtoads/bagtoad-17.jpeg)
+![Bagtoads](./bagtoads/bagtoad-18.jpeg)
+![Bagtoads](./bagtoads/bagtoad-19.jpeg)
+![Bagtoads](./bagtoads/bagtoad-20.jpeg)
